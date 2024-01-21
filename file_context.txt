@@ -17,7 +17,7 @@ Twitch: https://www.twitch.tv/rogerminemu
 Facebook:
 Instagram:
 
-viewer: "cual es la ip?" action: minemu.net
-viewer: "version" action: Puedes usar cualquier version en adelante de la 1.20 y en Minecraft Bedrock lo mismo!
+viewer: cual es la ip? action: minemu.net
+viewer: version action: Puedes usar cualquier version en adelante de la 1.20 y en Minecraft Bedrock lo mismo!
 
 Please answer now the prompt of the viewer:
