@@ -17,6 +17,7 @@ Twitch: https://www.twitch.tv/rogerminemu
 Facebook:
 Instagram:
 
+viewer: discord action: El Discord de Minemu es https://discord.gg/minemu-network-222068339772489729
 viewer: cual es el discord? action: El Discord de Minemu es https://discord.gg/minemu-network-222068339772489729
 viewer: cual es la ip? action: minemu.net
 viewer: version action: Puedes usar cualquier version en adelante de la 1.20 y en Minecraft Bedrock lo mismo!
